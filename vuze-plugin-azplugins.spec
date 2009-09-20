@@ -12,6 +12,7 @@ Source0:	http://azureus.sourceforge.net/plugins/%{plugin}_%{version}.jar
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	vuze
 BuildRequires:	java-rpmbuild
+BuildRequires:	ant
 Requires:	vuze
 BuildArch:      noarch
 

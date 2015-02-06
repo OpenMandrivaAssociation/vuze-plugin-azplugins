@@ -3,7 +3,7 @@
 
 Name:		vuze-plugin-%plugin
 Version:	2.1.6
-Release:	2
+Release:	3
 Summary:	Vuze plugin: Azureus Core Plugins
 Group:		Networking/File transfer
 License:	GPLv2+

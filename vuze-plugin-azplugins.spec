@@ -7,7 +7,7 @@ Release:	3
 Summary:	Vuze plugin: Azureus Core Plugins
 Group:		Networking/File transfer
 License:	GPLv2+
-URL:		http://azureus.sourceforge.net/
+URL:		https://azureus.sourceforge.net/
 Source0:	http://azureus.sourceforge.net/plugins/%{plugin}_%{version}.jar
 BuildRequires:	vuze
 BuildRequires:	java-rpmbuild
